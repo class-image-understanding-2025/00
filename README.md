@@ -16,8 +16,8 @@
 
 ## Presentation
 - assignment deadline: 2025-09-25
-- give a presentation on the conference papers in the fields of machine learning, computer vision, natural language
-- conferences: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, SIGKDD in 2024 and 2025
+- give a presentation on the conference papers in the fields of machine learning, computer vision, natural language processing, speed processing
+- conferences: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, SIGKDD, ACL, EMNLP, ICASSP, INTERSPEECH in 2024 and 2025
 - length: 20-40 minutes
 - missing the scheduled presentation will result in the failure of the class
 - allowed to swap the presentation schedule among students
